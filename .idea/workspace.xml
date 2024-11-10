@@ -4,21 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4b537a7-c760-49b1-8d2a-df6bb6b795dd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/SELENIUM.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJECT/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJECT/test_Lab001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJECT/test_Lab002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJECT/test_Lab003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJECT/test_Lab004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJECT/test_Lab005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJECT/test_Lab006.py" afterDir="false" />
+    <list default="true" id="c4b537a7-c760-49b1-8d2a-df6bb6b795dd" name="Changes" comment="hi">
+      <change afterPath="$PROJECT_DIR$/PROJECT/test_Lab007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJECT/test_Lab008.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJECT/test_Lab009.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PROJECT/test_Lab006.py" beforeDir="false" afterPath="$PROJECT_DIR$/PROJECT/test_Lab006.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_result/238890d9-00a1-4c1a-88e7-a26d2afa3e29-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_result/75ee46c8-2e14-417a-8347-4ca7f5af8dda-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_result/8272f332-7f99-47ca-b3bc-0c82c3348a56-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_result/d5e5ea9a-559c-4c68-9ec2-8c2faef69bf7-attachment.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +30,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "prasanthgupthan"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/prasanthgupthan/SELENIUM.git",
+    "accountId": "6d5f74c5-2c39-4a63-9d6c-e3acb94c6b79"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -53,6 +60,7 @@
     "Python tests.Python tests in test_Lab004.py.executor": "Run",
     "Python tests.Python tests in test_Lab005.py.executor": "Run",
     "Python tests.Python tests in test_Lab006.py.executor": "Run",
+    "Python tests.Python tests in test_Lab007.py.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master"
@@ -96,6 +104,51 @@
       <option name="presentableId" value="Default" />
       <updated>1731149651747</updated>
     </task>
+    <task id="LOCAL-00001" summary="hi">
+      <option name="closed" value="true" />
+      <created>1731227163833</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731227163834</updated>
+    </task>
+    <task id="LOCAL-00002" summary="hi">
+      <option name="closed" value="true" />
+      <created>1731227181915</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731227181915</updated>
+    </task>
+    <task id="LOCAL-00003" summary="hi">
+      <option name="closed" value="true" />
+      <created>1731227218595</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731227218595</updated>
+    </task>
+    <task id="LOCAL-00004" summary="hi">
+      <option name="closed" value="true" />
+      <created>1731227224589</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731227224589</updated>
+    </task>
+    <task id="LOCAL-00005" summary="hi">
+      <option name="closed" value="true" />
+      <created>1731227700575</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1731227700575</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hi" />
+    <option name="LAST_COMMIT_MESSAGE" value="hi" />
   </component>
 </project>
