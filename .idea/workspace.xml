@@ -5,20 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4b537a7-c760-49b1-8d2a-df6bb6b795dd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/SELENIUM.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJECT/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJECT/test_Lab001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJECT/test_Lab002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJECT/test_Lab003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJECT/test_Lab004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJECT/test_Lab005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJECT/test_Lab006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJECT/test_Lab016.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJECT/test_Lab017.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJECT/test_Lab018.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJECT/test_Lab019.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJECT/test_Lab020.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +45,7 @@
     "Python tests.Python tests in test_Lab004.py.executor": "Run",
     "Python tests.Python tests in test_Lab005.py.executor": "Run",
     "Python tests.Python tests in test_Lab006.py.executor": "Run",
+    "Python tests.Python tests in test_Lab020.py.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master"
